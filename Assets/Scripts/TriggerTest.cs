@@ -2,22 +2,13 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SoundTriger : MonoBehaviour
+public class TriggerTest : MonoBehaviour
 {
-    public AudioSource audioSource;
-
-    void Start()
-    { 
-        audioSource.enabled = false;
-        Debug.Log("Noise off");
-    }
-
-    private void OnTriggerEnter(Collider other)
+   private void OnTriggerEnter(Collider other)
     {
         if(other.gameObject == Camera.main.gameObject)
         {
             Debug.Log("In");
-            audioSource.enabled = true;
         }
     }
 
@@ -26,7 +17,6 @@ public class SoundTriger : MonoBehaviour
         if (other.gameObject == Camera.main.gameObject)
         {
             Debug.Log("Out");
-            audioSource.enabled = false;
         }
     }
 }
