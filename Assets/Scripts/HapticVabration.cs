@@ -19,6 +19,8 @@ public class HapticVabration : MonoBehaviour
         if(other.gameObject == Camera.main.gameObject)
         {
             Debug.Log("In");
+            Vibration.Vibrate ();
+
         }
     }
 
@@ -27,6 +29,7 @@ public class HapticVabration : MonoBehaviour
         if (other.gameObject == Camera.main.gameObject)
         {
             Debug.Log("Out");
+            Vibration.VibratePop ();    
         }
     }
 

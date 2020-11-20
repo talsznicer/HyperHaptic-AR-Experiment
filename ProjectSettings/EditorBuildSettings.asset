@@ -14,10 +14,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SoundSpots.unity
     guid: 38d03972393c94d78a3a2d94a73b8ff3
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Vibration.unity
     guid: 052e3e7d87e0c43c4a0007ea06b87b31
-  - enabled: 1
+  - enabled: 0
     path: Assets/Vibration/Example/VibrationExample.unity
     guid: 97713010e65794861b2e4b75c95a2ece
   m_configObjects:
