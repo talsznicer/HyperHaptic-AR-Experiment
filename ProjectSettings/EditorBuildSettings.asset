@@ -8,11 +8,17 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SoundArea.unity
     guid: 3cbc498c0746d40418e04c48e47cf226
   - enabled: 0
     path: Assets/Scenes/SoundSpots.unity
     guid: 38d03972393c94d78a3a2d94a73b8ff3
+  - enabled: 1
+    path: Assets/Scenes/Vibration.unity
+    guid: 052e3e7d87e0c43c4a0007ea06b87b31
+  - enabled: 0
+    path: Assets/Vibration/Example/VibrationExample.unity
+    guid: 97713010e65794861b2e4b75c95a2ece
   m_configObjects:
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 22a83a1830488454d8060a8059b032c0, type: 2}
