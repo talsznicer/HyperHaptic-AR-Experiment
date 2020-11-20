@@ -19,7 +19,7 @@ public class HapticVabration : MonoBehaviour
         if(other.gameObject == Camera.main.gameObject)
         {
             Debug.Log("In");
-            TapVibrate ();
+            TapPeekVibrate ();
         }
     }
 
@@ -28,6 +28,7 @@ public class HapticVabration : MonoBehaviour
         if (other.gameObject == Camera.main.gameObject)
         {
             Debug.Log("Out");
+            // TapCancelVibrate ();
         }
     }
 
@@ -40,6 +41,7 @@ public class HapticVabration : MonoBehaviour
     public void TapCancelVibrate ()
     {
         Vibration.Cancel ();
+        Debug.Log("Cancel");
     }
 
     public void TapPopVibrate ()
