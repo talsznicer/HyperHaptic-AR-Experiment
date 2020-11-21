@@ -11,5 +11,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Experiment 01.2 Physical wall.unity
     guid: d3d10ac62e06e45e1baa6d5b94dd7c9a
+  - enabled: 1
+    path: Assets/Scenes/Experiment 01.3 Physical wall.unity
+    guid: 7a902fcece9d049f4a40e8607fb5265b
   m_configObjects:
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 22a83a1830488454d8060a8059b032c0, type: 2}
