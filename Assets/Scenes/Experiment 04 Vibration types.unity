@@ -193,7 +193,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Experiment 03
+  m_Text: 'Experiment 04
+
+'
 --- !u!222 &166969412
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1051,7 +1053,7 @@ MonoBehaviour:
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 0.01
+  m_PixelsPerUnitMultiplier: 1
 --- !u!222 &1299980512
 CanvasRenderer:
   m_ObjectHideFlags: 0

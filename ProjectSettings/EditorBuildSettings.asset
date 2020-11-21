@@ -21,13 +21,16 @@ EditorBuildSettings:
     path: Assets/Vibration/Example/VibrationExample.unity
     guid: 97713010e65794861b2e4b75c95a2ece
   - enabled: 1
-    path: Assets/Scenes/Experiment 01 Elevation vibration.unity
+    path: Assets/Scenes/Experiment 01 Walls.unity
+    guid: 74c8e60c1ab73486488c8393cd25d89b
+  - enabled: 1
+    path: Assets/Scenes/Experiment 02 Elevation vibration.unity
     guid: 7e667af592ae94e3d8447091cfe3f25f
   - enabled: 1
-    path: Assets/Scenes/Experiment 02 Four direction sound.unity
+    path: Assets/Scenes/Experiment 03 Four direction sound.unity
     guid: 4900906f24d184a3ca1afc76c985bb5a
   - enabled: 1
-    path: Assets/Scenes/Experiment 03 Vibration types.unity
+    path: Assets/Scenes/Experiment 04 Vibration types.unity
     guid: a688c6cc3e56243b6a45de52704b3748
   m_configObjects:
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 22a83a1830488454d8060a8059b032c0, type: 2}
