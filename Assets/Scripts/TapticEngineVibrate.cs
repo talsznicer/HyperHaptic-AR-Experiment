@@ -5,7 +5,7 @@ using System.Linq; // Added
 using UnityEngine;
 using UnityEngine.UI; // Added
 
-public class HapticVabration : MonoBehaviour
+public class TapticEngineVibrate : MonoBehaviour
 {
      // Use this for initialization
     void Start ()

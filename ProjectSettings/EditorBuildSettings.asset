@@ -26,5 +26,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Experiment 02 Four direction sound.unity
     guid: 4900906f24d184a3ca1afc76c985bb5a
+  - enabled: 1
+    path: Assets/Scenes/Experiment 03 Vibration types.unity
+    guid: a688c6cc3e56243b6a45de52704b3748
   m_configObjects:
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 22a83a1830488454d8060a8059b032c0, type: 2}
