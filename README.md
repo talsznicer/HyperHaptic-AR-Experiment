@@ -7,3 +7,7 @@ I used these tutorials to start it up:
 - How to prepare the scean for a build: https://www.youtube.com/watch?v=Ml2UakwRxjk&t=1289s
 - Used vibration library https://github.com/BenoitFreslon/Vibration
 - Toggel scene https://www.youtube.com/watch?v=FSt5xrFHaFU
+- Audio      https://www.youtube.com/watch?v=r72k3Z2tREA
+    - STEAM AUDIO https://valvesoftware.github.io/steam-audio/, https://valvesoftware.github.io/steam-audio/doc/phonon_unity.html
+    - Oculus Spatializer Unity https://developer.oculus.com/downloads/package/oculus-spatializer-unity/
+
