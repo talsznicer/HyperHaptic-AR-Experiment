@@ -156,6 +156,36 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bac69b8707d1d4d77a43410f0685e299, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  OnTriggerEnterAction:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 461187318}
+        m_TargetAssemblyTypeName: TapticEngineVibrate, Assembly-CSharp
+        m_MethodName: TapPopVibrate
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  OnTriggerExitAction:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 461187318}
+        m_TargetAssemblyTypeName: TapticEngineVibrate, Assembly-CSharp
+        m_MethodName: TapCancelVibrate
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!54 &35596487
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -281,6 +311,36 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bac69b8707d1d4d77a43410f0685e299, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  OnTriggerEnterAction:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 461187318}
+        m_TargetAssemblyTypeName: TapticEngineVibrate, Assembly-CSharp
+        m_MethodName: TapPopVibrate
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  OnTriggerExitAction:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 461187318}
+        m_TargetAssemblyTypeName: TapticEngineVibrate, Assembly-CSharp
+        m_MethodName: TapCancelVibrate
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!54 &95586818
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -406,6 +466,36 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bac69b8707d1d4d77a43410f0685e299, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  OnTriggerEnterAction:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 461187318}
+        m_TargetAssemblyTypeName: TapticEngineVibrate, Assembly-CSharp
+        m_MethodName: TapPopVibrate
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  OnTriggerExitAction:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 461187318}
+        m_TargetAssemblyTypeName: TapticEngineVibrate, Assembly-CSharp
+        m_MethodName: TapCancelVibrate
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!54 &143209722
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -623,6 +713,36 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bac69b8707d1d4d77a43410f0685e299, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  OnTriggerEnterAction:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 461187318}
+        m_TargetAssemblyTypeName: TapticEngineVibrate, Assembly-CSharp
+        m_MethodName: TapPopVibrate
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  OnTriggerExitAction:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 461187318}
+        m_TargetAssemblyTypeName: TapticEngineVibrate, Assembly-CSharp
+        m_MethodName: TapCancelVibrate
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &166969409
 GameObject:
   m_ObjectHideFlags: 0
@@ -823,6 +943,36 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bac69b8707d1d4d77a43410f0685e299, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  OnTriggerEnterAction:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 461187318}
+        m_TargetAssemblyTypeName: TapticEngineVibrate, Assembly-CSharp
+        m_MethodName: TapPopVibrate
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  OnTriggerExitAction:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 461187318}
+        m_TargetAssemblyTypeName: TapticEngineVibrate, Assembly-CSharp
+        m_MethodName: TapCancelVibrate
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!54 &460548210
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -948,6 +1098,36 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bac69b8707d1d4d77a43410f0685e299, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  OnTriggerEnterAction:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 461187318}
+        m_TargetAssemblyTypeName: TapticEngineVibrate, Assembly-CSharp
+        m_MethodName: TapPopVibrate
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  OnTriggerExitAction:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 461187318}
+        m_TargetAssemblyTypeName: TapticEngineVibrate, Assembly-CSharp
+        m_MethodName: TapCancelVibrate
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!54 &461187319
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1073,6 +1253,36 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bac69b8707d1d4d77a43410f0685e299, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  OnTriggerEnterAction:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 461187318}
+        m_TargetAssemblyTypeName: TapticEngineVibrate, Assembly-CSharp
+        m_MethodName: TapPopVibrate
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  OnTriggerExitAction:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 461187318}
+        m_TargetAssemblyTypeName: TapticEngineVibrate, Assembly-CSharp
+        m_MethodName: TapCancelVibrate
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!54 &558485055
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1489,6 +1699,36 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bac69b8707d1d4d77a43410f0685e299, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  OnTriggerEnterAction:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 461187318}
+        m_TargetAssemblyTypeName: TapticEngineVibrate, Assembly-CSharp
+        m_MethodName: TapPopVibrate
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  OnTriggerExitAction:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 461187318}
+        m_TargetAssemblyTypeName: TapticEngineVibrate, Assembly-CSharp
+        m_MethodName: TapCancelVibrate
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!54 &960641882
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1640,10 +1880,10 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 19
+    m_FontSize: 24
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 2
     m_MaxSize: 40
     m_Alignment: 4
     m_AlignByGeometry: 0
@@ -1693,6 +1933,36 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bac69b8707d1d4d77a43410f0685e299, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  OnTriggerEnterAction:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 461187318}
+        m_TargetAssemblyTypeName: TapticEngineVibrate, Assembly-CSharp
+        m_MethodName: TapPopVibrate
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  OnTriggerExitAction:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 461187318}
+        m_TargetAssemblyTypeName: TapticEngineVibrate, Assembly-CSharp
+        m_MethodName: TapCancelVibrate
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!54 &1244545847
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1968,6 +2238,36 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bac69b8707d1d4d77a43410f0685e299, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  OnTriggerEnterAction:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 461187318}
+        m_TargetAssemblyTypeName: TapticEngineVibrate, Assembly-CSharp
+        m_MethodName: TapPopVibrate
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  OnTriggerExitAction:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 461187318}
+        m_TargetAssemblyTypeName: TapticEngineVibrate, Assembly-CSharp
+        m_MethodName: TapCancelVibrate
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!54 &1312913043
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -2224,6 +2524,36 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bac69b8707d1d4d77a43410f0685e299, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  OnTriggerEnterAction:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 461187318}
+        m_TargetAssemblyTypeName: TapticEngineVibrate, Assembly-CSharp
+        m_MethodName: TapPopVibrate
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  OnTriggerExitAction:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 461187318}
+        m_TargetAssemblyTypeName: TapticEngineVibrate, Assembly-CSharp
+        m_MethodName: TapCancelVibrate
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!54 &1431786358
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -2349,6 +2679,36 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bac69b8707d1d4d77a43410f0685e299, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  OnTriggerEnterAction:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 461187318}
+        m_TargetAssemblyTypeName: TapticEngineVibrate, Assembly-CSharp
+        m_MethodName: TapPopVibrate
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  OnTriggerExitAction:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 461187318}
+        m_TargetAssemblyTypeName: TapticEngineVibrate, Assembly-CSharp
+        m_MethodName: TapCancelVibrate
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!54 &1467832191
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -2474,6 +2834,36 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bac69b8707d1d4d77a43410f0685e299, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  OnTriggerEnterAction:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 461187318}
+        m_TargetAssemblyTypeName: TapticEngineVibrate, Assembly-CSharp
+        m_MethodName: TapPopVibrate
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  OnTriggerExitAction:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 461187318}
+        m_TargetAssemblyTypeName: TapticEngineVibrate, Assembly-CSharp
+        m_MethodName: TapCancelVibrate
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!54 &1507265308
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -2599,6 +2989,36 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bac69b8707d1d4d77a43410f0685e299, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  OnTriggerEnterAction:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 461187318}
+        m_TargetAssemblyTypeName: TapticEngineVibrate, Assembly-CSharp
+        m_MethodName: TapPopVibrate
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  OnTriggerExitAction:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 461187318}
+        m_TargetAssemblyTypeName: TapticEngineVibrate, Assembly-CSharp
+        m_MethodName: TapCancelVibrate
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!54 &1601776610
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -2724,6 +3144,36 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bac69b8707d1d4d77a43410f0685e299, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  OnTriggerEnterAction:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 461187318}
+        m_TargetAssemblyTypeName: TapticEngineVibrate, Assembly-CSharp
+        m_MethodName: TapPopVibrate
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  OnTriggerExitAction:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 461187318}
+        m_TargetAssemblyTypeName: TapticEngineVibrate, Assembly-CSharp
+        m_MethodName: TapCancelVibrate
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!54 &1609542416
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -2924,6 +3374,36 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bac69b8707d1d4d77a43410f0685e299, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  OnTriggerEnterAction:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 461187318}
+        m_TargetAssemblyTypeName: TapticEngineVibrate, Assembly-CSharp
+        m_MethodName: TapPopVibrate
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  OnTriggerExitAction:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 461187318}
+        m_TargetAssemblyTypeName: TapticEngineVibrate, Assembly-CSharp
+        m_MethodName: TapCancelVibrate
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!54 &1885372685
 Rigidbody:
   m_ObjectHideFlags: 0
