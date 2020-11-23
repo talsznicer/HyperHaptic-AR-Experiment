@@ -4,9 +4,13 @@ using System.Collections.Generic;
 using System.Linq; // Added
 using UnityEngine;
 using UnityEngine.UI; // Added
+using UnityEngine.Events; //Added
 
 public class TapticEngineVibrate : MonoBehaviour
 {
+    public UnityEvent OnTriggerEnterAction; //Added
+    public UnityEvent OnTriggerExitAction; //Added
+
      // Use this for initialization
     void Start ()
     {
@@ -19,7 +23,7 @@ public class TapticEngineVibrate : MonoBehaviour
         if(other.gameObject == Camera.main.gameObject)
         {
             Debug.Log("In");
-            TapPeekVibrate ();
+            OnTriggerEnterAction?.Invoke(); // Added
         }
     }
 
@@ -28,7 +32,7 @@ public class TapticEngineVibrate : MonoBehaviour
         if (other.gameObject == Camera.main.gameObject)
         {
             Debug.Log("Out");
-            // TapCancelVibrate ();
+            OnTriggerExitAction?.Invoke(); // Added
         }
     }
 
