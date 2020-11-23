@@ -325,6 +325,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bac69b8707d1d4d77a43410f0685e299, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  OnTriggerEnterAction:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 461187318}
+        m_TargetAssemblyTypeName: TapticEngineVibrate, Assembly-CSharp
+        m_MethodName: TapVibrate
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!54 &461187319
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -741,6 +756,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bac69b8707d1d4d77a43410f0685e299, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  OnTriggerEnterAction:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 946396410}
+        m_TargetAssemblyTypeName: TapticEngineVibrate, Assembly-CSharp
+        m_MethodName: TapNopeVibrate
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!54 &946396411
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1226,6 +1256,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bac69b8707d1d4d77a43410f0685e299, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  OnTriggerEnterAction:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1733182904}
+        m_TargetAssemblyTypeName: TapticEngineVibrate, Assembly-CSharp
+        m_MethodName: TapPeekVibrate
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!54 &1733182905
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1351,6 +1396,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bac69b8707d1d4d77a43410f0685e299, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  OnTriggerEnterAction:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1853071239}
+        m_TargetAssemblyTypeName: TapticEngineVibrate, Assembly-CSharp
+        m_MethodName: TapPopVibrate
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!54 &1853071240
 Rigidbody:
   m_ObjectHideFlags: 0
