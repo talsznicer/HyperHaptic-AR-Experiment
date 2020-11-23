@@ -15,7 +15,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Experiment 01.3 Physical wall.unity
     guid: 7a902fcece9d049f4a40e8607fb5265b
   - enabled: 1
-    path: Assets/Scenes/Experiment 01.4 Add sound.unity
+    path: Assets/Scenes/Experiment 01.4 Add wall sound.unity
     guid: fddf07e2077ba47b7826388f3ee5b46e
   m_configObjects:
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 22a83a1830488454d8060a8059b032c0, type: 2}
