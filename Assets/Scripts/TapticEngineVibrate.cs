@@ -6,10 +6,14 @@ using UnityEngine;
 using UnityEngine.UI; // Added
 using UnityEngine.Events; //Added
 
+
 public class TapticEngineVibrate : MonoBehaviour
 {
+public GameObject VibrateIndicator;
+
     public UnityEvent OnTriggerEnterAction; //Added
     public UnityEvent OnTriggerExitAction; //Added
+    public float VibrateIndicatorTimer = 0.2f;
 
      // Use this for initialization
     void Start ()
@@ -24,6 +28,7 @@ public class TapticEngineVibrate : MonoBehaviour
         {
             Debug.Log("In");
             OnTriggerEnterAction?.Invoke(); // Added
+            ActivateVibrateIndicator();
         }
     }
 
@@ -64,5 +69,16 @@ public class TapticEngineVibrate : MonoBehaviour
     {
         Vibration.VibrateNope ();
         Debug.Log("NopeVibrate");
+    }
+
+    private void ActivateVibrateIndicator ()
+    {
+        VibrateIndicator.SetActive(true);
+        Invoke("DeactivateVibrateIndicator",VibrateIndicatorTimer);
+    }
+
+    private void DeactivateVibrateIndicator ()
+    {
+        VibrateIndicator.SetActive(false);
     }
 }
