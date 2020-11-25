@@ -193,7 +193,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Experiment 01.1\x03"
+  m_Text: Experiment 1.a
 --- !u!222 &166969412
 CanvasRenderer:
   m_ObjectHideFlags: 0

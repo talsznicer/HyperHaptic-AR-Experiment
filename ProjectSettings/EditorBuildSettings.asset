@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/1.1 Wall.unity
+    path: Assets/Scenes/1.a Wall.unity
     guid: 7a70a221cc89e4f8992d6bbe405c40bf
   - enabled: 1
     path: Assets/Scenes/Experiment 04 Vibration types.unity
