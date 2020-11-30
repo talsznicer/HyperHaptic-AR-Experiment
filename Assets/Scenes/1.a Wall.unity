@@ -193,7 +193,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Experiment 1.a
+  m_Text: 1.a Wall
 --- !u!222 &166969412
 CanvasRenderer:
   m_ObjectHideFlags: 0

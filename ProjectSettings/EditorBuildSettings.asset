@@ -9,7 +9,16 @@ EditorBuildSettings:
     path: Assets/Scenes/1.a Wall.unity
     guid: 7a70a221cc89e4f8992d6bbe405c40bf
   - enabled: 1
-    path: Assets/Scenes/Experiment 04 Vibration types.unity
-    guid: a688c6cc3e56243b6a45de52704b3748
+    path: Assets/Scenes/1.b Wall.unity
+    guid: 0da00f5bc61a441e7999cf87380a5360
+  - enabled: 1
+    path: Assets/Scenes/1.c Wall.unity
+    guid: 07c25488a8dac4632ad6f7857f76be2b
+  - enabled: 1
+    path: Assets/Scenes/1.d Wall.unity
+    guid: 601e70ca6abea4093b583a0d97cdff47
+  - enabled: 1
+    path: Assets/Scenes/2.a Follow Sound.unity
+    guid: 7eeab6560a2004e4a8d8645d142c41e7
   m_configObjects:
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 22a83a1830488454d8060a8059b032c0, type: 2}
