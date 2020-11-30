@@ -20,5 +20,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/2.a Follow Sound.unity
     guid: 7eeab6560a2004e4a8d8645d142c41e7
+  - enabled: 1
+    path: Assets/Scenes/3.a Vibrational density.unity
+    guid: a0553bbf011274c149ac7bd4fb7448e9
   m_configObjects:
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 22a83a1830488454d8060a8059b032c0, type: 2}
