@@ -6,28 +6,22 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Experiment 01.1 Physical wall.unity
-    guid: 74c8e60c1ab73486488c8393cd25d89b
+    path: Assets/Scenes/1.a Wall.unity
+    guid: 7a70a221cc89e4f8992d6bbe405c40bf
   - enabled: 1
-    path: Assets/Scenes/Experiment 01.2 Physical wall.unity
-    guid: d3d10ac62e06e45e1baa6d5b94dd7c9a
+    path: Assets/Scenes/1.b Wall.unity
+    guid: 0da00f5bc61a441e7999cf87380a5360
   - enabled: 1
-    path: Assets/Scenes/Experiment 01.3 Physical wall.unity
-    guid: 7a902fcece9d049f4a40e8607fb5265b
+    path: Assets/Scenes/1.c Wall.unity
+    guid: 07c25488a8dac4632ad6f7857f76be2b
   - enabled: 1
-    path: Assets/Scenes/Experiment 01.4 Add wall sound.unity
-    guid: 49de8260957b84c6da4b5c677dd4c166
+    path: Assets/Scenes/1.d Wall.unity
+    guid: 601e70ca6abea4093b583a0d97cdff47
   - enabled: 1
-    path: Assets/Scenes/Experiment 01.5 Turn.unity
-    guid: fddf07e2077ba47b7826388f3ee5b46e
+    path: Assets/Scenes/2.a Follow Sound.unity
+    guid: 7eeab6560a2004e4a8d8645d142c41e7
   - enabled: 1
-    path: Assets/Scenes/Experiment 02 Elevation vibration.unity
-    guid: 7e667af592ae94e3d8447091cfe3f25f
-  - enabled: 1
-    path: Assets/Scenes/Experiment 03 Four direction sound.unity
-    guid: 4900906f24d184a3ca1afc76c985bb5a
-  - enabled: 1
-    path: Assets/Scenes/Experiment 04 Vibration types.unity
-    guid: a688c6cc3e56243b6a45de52704b3748
+    path: Assets/Scenes/3.a Vibrational density.unity
+    guid: a0553bbf011274c149ac7bd4fb7448e9
   m_configObjects:
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 22a83a1830488454d8060a8059b032c0, type: 2}
