@@ -6,22 +6,22 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/1.a Wall.unity
-    guid: 7a70a221cc89e4f8992d6bbe405c40bf
-  - enabled: 1
-    path: Assets/Scenes/1.b Wall.unity
-    guid: 0da00f5bc61a441e7999cf87380a5360
-  - enabled: 1
     path: Assets/Scenes/1.c Wall.unity
     guid: 07c25488a8dac4632ad6f7857f76be2b
-  - enabled: 1
-    path: Assets/Scenes/1.d Wall.unity
-    guid: 601e70ca6abea4093b583a0d97cdff47
   - enabled: 1
     path: Assets/Scenes/2.a Follow Sound.unity
     guid: 7eeab6560a2004e4a8d8645d142c41e7
   - enabled: 1
-    path: Assets/Scenes/3.a Vibrational density.unity
-    guid: a0553bbf011274c149ac7bd4fb7448e9
+    path: Assets/Scenes/3.a Vibration density.unity
+    guid: f5d8524afa02f495199bd57a3910d78b
+  - enabled: 1
+    path: Assets/Scenes/3.b Vibration density with sound.unity
+    guid: eb0e213d4b2ae4602a2fc8613a4260dc
+  - enabled: 1
+    path: Assets/Scenes/3.c Vibration sphere density.unity
+    guid: 7ddc804f1689f42ed8d68df99f25f5a1
+  - enabled: 1
+    path: Assets/Scenes/4.a All together now.unity
+    guid: 374dc8cbf6c44423597cc8f533ad86a3
   m_configObjects:
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 22a83a1830488454d8060a8059b032c0, type: 2}

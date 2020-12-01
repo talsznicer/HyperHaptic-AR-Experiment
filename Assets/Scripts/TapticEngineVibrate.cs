@@ -28,7 +28,6 @@ public GameObject VibrateIndicator;
         {
             Debug.Log("In");
             OnTriggerEnterAction?.Invoke(); // Added
-            ActivateVibrateIndicator();
         }
     }
 
@@ -45,6 +44,7 @@ public GameObject VibrateIndicator;
     {
         Vibration.Vibrate ();
         Debug.Log("Vibrate");
+        ActivateVibrateIndicator();
     }
 
     public void TapCancelVibrate ()
@@ -57,18 +57,21 @@ public GameObject VibrateIndicator;
     {
         Vibration.VibratePop ();
         Debug.Log("PopVibrate");
+        ActivateVibrateIndicator();
     }
 
     public void TapPeekVibrate ()
     {
         Vibration.VibratePeek ();
         Debug.Log("PeekVibrate");
+        ActivateVibrateIndicator();
     }
 
     public void TapNopeVibrate ()
     {
         Vibration.VibrateNope ();
         Debug.Log("NopeVibrate");
+        ActivateVibrateIndicator();
     }
 
     private void ActivateVibrateIndicator ()
